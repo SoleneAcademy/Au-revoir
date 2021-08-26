@@ -28,5 +28,7 @@ print("Je me répète mais merci pour ces 6 mois de stage durant lesquels j'ai a
 print("Je repars pour une année d'étude en mastère spécialisé en Cybersécurité à Rennes (si vous avez des bons plans sur Rennes n'hésitez pas d'ailleurs)")
 
 final = "En espérant avoir l'occasion de vous revoir :-) "
+
 print(" intrinsec quement vôtre (petit jeu de mot pour que ça fasse une notif ehehe)")
+print("j'espère avoir laissé mon footprint dans l'équipe (c'est pour augmenter les chances d'avoir une notif ehehe)")
 signature = SGN
